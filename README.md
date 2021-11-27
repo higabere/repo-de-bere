@@ -1,3 +1,3 @@
-# HOla Juan Carlos
+# Hola Juan Carlos
 
-Comoe estas?
+Cómo estás?
